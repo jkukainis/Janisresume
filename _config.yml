@@ -1,21 +1,21 @@
 # Site
-repository: dannycastonguay/resume
+repository: jkukainis/resume
 # favicon: images/favicon.ico
 
 # Personal info
-name: Danny Castonguay
-title: Product leader.
-email: danny@talented.app
-website: dannycastonguay.com
+name: Janis Kukainis
+title: Product Manager
+email: janis@talented.app
+website: janiskukainis.com
 
 # Social links
-twitter_username: dannycast0nguay
-github_username:  dannycastonguay
+#twitter_username: dannycast0nguay
+github_username:  jkukainis
 # dribbble_username: jekyll
 # facebook_username: dannycastonguay
 # flickr_username: jekyll
 # instagram_username: 
-linkedin_username: dannycastonguay
+linkedin_username: janiskukainis
 # pinterest_username: jekyll
 # youtube_username: dannycastonguay
 # googleplus_username: +jekyll
