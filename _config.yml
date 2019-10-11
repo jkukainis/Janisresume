@@ -24,11 +24,11 @@ linkedin_username: janiskukainis
 # about_title: About Me
 about_profile_image: images/Janis Pic 2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm the founder of Talented.app and the co-Founder of Kalibrr.com. I'm a former McKinsey Expert Associate Partner. I'm a husband and father of three. I train Brazilian Jui-Jitsu 5 times a week and I don't compromise on sleep, nutrition, and meditation/relaxation. I challenge my teams, I create accountability structure, and I give a lot of (tough) love.
+  I have twelve years of experience in project management, business development, and operations roles and have led teams of up to 1,500 people. In my personal life, I take great pride in my Latvian heritage, and am the Chairman of the Board for the largest non-profit Latvian cultural center outside of Latvia. 
 
-  Tools I like to use include: <mark>Gitlab</mark>, <mark>SKLearn</mark>, and <mark>Figma</mark>.
+  #Tools I like to use include: <mark>Gitlab</mark>, <mark>SKLearn</mark>, and <mark>Figma</mark>.
 
-  I am most skilled in: <mark>Business</mark>, <mark>Product Management</mark>, and <mark>Team Health</mark>.
+  #I am most skilled in: <mark>Business</mark>, <mark>Product Management</mark>, and <mark>Team Health</mark>.
 
 # Projects Section
 # projects_title: Projects
@@ -43,9 +43,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in technology, design, sustainability, education, and finance, some of my other interests and hobbies are:
-   - Muay Thai, Jiu Jitsu, Yoga
-   - Meditation
-   - Card, board, and video games
+   - All things Latvian to include folks singing and dancing, arts, food, ect.
+   - Excercise
+   - Current events
 # Footer
 footer_show_references: true
 
