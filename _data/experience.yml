@@ -9,6 +9,16 @@
     I joined Talented because I agreed with the vision and saw the quality of work they were doing. Since joining Talented I have helped define our strategy, conduct business development, serve as a product manager creating digital products for clients, conduct pricing analysis, and have improved our online marketing presence. 
 
 - layout: left
+  company: Amazon.com
+  link: www.Amazon.com
+  job_title: Area Manager | Operations Manager | SR Operations Manager
+  dates: July 2013 - June 2019 
+  quote: >
+    Technology c
+  description: | # this will include new lines to allow paragraphs
+    During my time at 
+
+- layout: left
   company: Apple
   link: www.apple.com
   job_title: Operations Intern
