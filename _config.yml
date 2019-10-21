@@ -40,9 +40,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in technology, design, sustainability, education, and finance, some of my other interests and hobbies are:
+  Alongside my interests in technology and operations some of my other interests and hobbies are:
    - All things Latvian to include folks singing and dancing, arts, food, ect.
-   - Excercise
+   - Excercise/Skiing/Kite Surfing
    - Current events
 # Footer
 footer_show_references: true
