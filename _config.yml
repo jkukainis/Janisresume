@@ -1,6 +1,6 @@
 # Site
 repository: jkukainis/resume
-# favicon: images/favicon.ico
+favicon: images/janis_pic_GIJ_icon.ico
 
 # Personal info
 name: Janis Kukainis
@@ -8,7 +8,7 @@ title: Product Manager
 email: janis@talented.app
 
 # Social links
-#twitter_username: dannycast0nguay
+# twitter_username: dannycast0nguay
 github_username:  jkukainis
 # dribbble_username: jekyll
 # facebook_username: dannycastonguay
